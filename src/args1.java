@@ -1,0 +1,2 @@
+public class args1 {
+}
